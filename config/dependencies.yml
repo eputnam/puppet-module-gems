@@ -6,8 +6,6 @@ dependencies:
       r2.4:
     dev:
       shared:
-        - gem: gettext-setup
-          version: '~> 0.26'
         - gem: metadata-json-lint
           version: ['>= 2.0.2', '< 3.0.0']
         - gem: mocha
